@@ -1,4 +1,4 @@
-# Plugin
+# PyQGIS Plugin Base
 
 **Installation**
 
