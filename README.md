@@ -1,5 +1,7 @@
 # PyQGIS Plugin Base
 
+## v1.0
+
 **Installation**
 
 * Download the zip file.
