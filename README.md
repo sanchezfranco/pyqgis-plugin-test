@@ -1,6 +1,6 @@
 # PyQGIS Plugin Base
 
-## v1.0
+## v1.0 (10-10-2017)
 
 **Installation**
 
