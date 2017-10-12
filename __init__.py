@@ -4,9 +4,9 @@ Test
 A QGIS plugin
 Plugin for testing things
 -------------------
-begin : 2015-01-28
-copyright : (C) 2015 by German Carrillo, GeoTux
-email : geotux_tuxman@linuxmail.org
+begin : 2017-10-10
+copyright : (C) 2017 by sanchezfranco
+email : saanchezfranco@gmail.com
 ***************************************************************************/
 
 /***************************************************************************
